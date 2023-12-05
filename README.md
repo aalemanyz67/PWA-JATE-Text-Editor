@@ -1,7 +1,7 @@
 # PWA-JATE_Text_Editor
 Albert Aleman Jr
-GitHub Repo: https://github.com/aalemanyz67/PWA-JATE-Text-Editor
-Heroku link: 
+<br>GitHub Repo: https://github.com/aalemanyz67/PWA-JATE-Text-Editor</br>
+Heroku link: https://pwa-jate-1-855a722010ef.herokuapp.com/
 
 # Objective
 As a developer I have created a text editor that runs within the browser. This application was created with PWA criteria in mind. Application will function wether the browser is online or offline.
